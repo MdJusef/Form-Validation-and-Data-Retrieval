@@ -18,7 +18,7 @@ To successfully run the web application you must follow these steps:
     <li>I hope you like it!</li>
 </ol>
 
-# Form Contain Following Input Field
+## Form Contain Following Input Field
 <ol>
     <li> Username </li>
     <li> Password </li>
@@ -31,7 +31,7 @@ To successfully run the web application you must follow these steps:
     <li> Register Button </li>
 </ol>
 
-# I Validate the form with by following condition
+## I Validate the form with by following condition
 <ul>
     <li> All input field is required. (Display error message shown if empty) </li>
     <li> Must have valid Email. </li>
@@ -44,7 +44,7 @@ To successfully run the web application you must follow these steps:
     <li> Validate with php and MySQL </li>
 </ul>
 
-# Technology
+## Technology
 <ul>
     <li>PHP</li>
     <li>Bootstrap</li>
@@ -52,7 +52,7 @@ To successfully run the web application you must follow these steps:
     <li>MySQL</li>
 </ul>
 
-# Live Demo Screenshot
+## Live Demo Screenshot
         
  <h4>* Form Design Using HTML and Bootstrap </h4>
  <img src="/DemoScreenshot/bootstrap%20form.png" alt="">
@@ -69,5 +69,5 @@ To successfully run the web application you must follow these steps:
 <h4>* Validation Check</h4>
  <img src="/DemoScreenshot/validation.png" alt="">
  
- # After Validation
+ ## After Validation
  After validation, I stores information in a MySQL database. And I Retrieved the results. After that I showed the data in a HTML table. You can search a specific information also. 
