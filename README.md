@@ -1,5 +1,6 @@
 # Form-Validation-and-Data-Retrieval using php and mysql
 
+## Installation
 The web application is a simple implementation of Registration Form data insertion,show and search using Php and Mysql.
 To successfully run the web application you must follow these steps:
 <br>
@@ -52,7 +53,7 @@ To successfully run the web application you must follow these steps:
     <li>MySQL</li>
 </ul>
 
-## Live Demo Screenshot
+## Screenshot
         
  <h4>* Form Design Using HTML and Bootstrap </h4>
  <img src="/DemoScreenshot/bootstrap%20form.png" alt="">
