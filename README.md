@@ -1,5 +1,32 @@
 # Form-Validation-and-Data-Retrieval using php and mysql
 
+<p> This is a simple web-based open source software written in PHP and MySQL. This was specifically written for Form Validation. You can easily install this system in your own server.</p>
+
+<p> If you find any bug feel free to send a pull request. </p> 
+
+<p> If you have any suggestions feel free create issues. </p>
+
+<ul>
+    <li>
+        <a href = "https://github.com/MdJusef/Form-Validation-and-Data-Retrieval#installation">Installation</a>
+    </li>
+    <li>
+        <a href = "https://github.com/MdJusef/Form-Validation-and-Data-Retrieval#form-contain-following-input-field">Input Field</a>
+    </li>
+    <li>
+        <a href = "https://github.com/MdJusef/Form-Validation-and-Data-Retrieval#i-validate-the-form-with-by-following-condition">Features</a>
+    </li>
+    <li>
+        <a href = "https://github.com/MdJusef/Form-Validation-and-Data-Retrieval#technology">Technology</a>
+    </li>
+    <li>
+        <a href = "https://github.com/MdJusef/Form-Validation-and-Data-Retrieval#screenshot">Screenshot</a>
+    </li>
+    <li>
+        <a href = "https://github.com/MdJusef/Form-Validation-and-Data-Retrieval#after-validation">After Validation</a>
+    </li>
+</ul>
+    
 ## Installation
 The web application is a simple implementation of Registration Form data insertion,show and search using Php and Mysql.
 To successfully run the web application you must follow these steps:
