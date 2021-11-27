@@ -70,4 +70,4 @@ To successfully run the web application you must follow these steps:
  <img src="/DemoScreenshot/validation.png" alt="">
  
  ## After Validation
- After validation, I stores information in a MySQL database. And I Retrieved the results. After that I showed the data in a HTML table. You can search a specific information also. 
+ After validation, I stores information in a MySQL database. And I Retrieved the results. After that I showed the data in a HTML table. You can search a specific information also.
